@@ -1,4 +1,4 @@
-#Carbon Footprint Prediction
+###Carbon Footprint Prediction
 
 ## Overview
 The goal of this project is to predict the carbon footprint of households based on features such as electricity usage, natural gas consumption, vehicle miles, house size, and lifestyle factors. The dataset provided includes a training set (`train.csv`) with 14,000 rows and a test set (`test.csv`) with 6,000 rows, containing 19 features and a target variable (`carbon_footprint`) in the training set. The task is a regression problem, and the evaluation metric is the R² score.
